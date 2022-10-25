@@ -1,0 +1,113 @@
+[
+    {
+        "id": 0,
+        "imageName":"Picture",
+        "category":"Other",
+        "data":"It seems as though Andrew's image is the only image that's not in webp format.",
+        "solution":"google.com - Download more images",
+        "source":"fake.com",
+        "badness":5,
+        "headline":"Image Shortage!"
+        
+    },
+    {
+        "id": 1,
+        "imageName":"IMG_0332",
+        "category":"Crime",
+        "data":"90% of muggings occur in alleyways",
+        "solution":"https://www.change.org/t/street-lights-en-us - Get more streetlights",
+        "source":"alsoFake.com",
+        "badness":3,
+        "headline":"Alleyway Muggings!"
+    },
+    {
+        "id":2,
+        "imageName":"IMG_0332",
+        "category":"Organisms",
+        "data":"Connor's too cool",
+        "solution":"There isn't one",
+        "source":"koefelda.com",
+        "badness":10,
+        "headline":"Man too OP!"
+    },
+    {
+        "id":3,
+        "imageName":"IMG_0332",
+        "category":"Environment",
+        "data":"I hacked this app",
+        "solution":"ENVIRONMENT - I'm not gonna do anything bad",
+        "source":"AHAHAFAKE.com",
+        "badness":1,
+        "headline":"Popular app hacked!"
+    },
+    {
+        "id":4,
+        "imageName":"IMG_0332",
+        "category":"Political Affairs",
+        "data":"I hacked this app",
+        "solution":"POLITICS - I'm not gonna do anything bad",
+        "source":"AHAHAFAKE.com",
+        "badness":1,
+        "headline":"Popular app hacked!"
+    },
+    {
+        "id":5,
+        "imageName":"IMG_0332",
+        "category":"Political Affairs",
+        "data":"I hacked this app",
+        "solution":"P - I'm not gonna do anything bad",
+        "source":"AHAHAFAKE.com",
+        "badness":1,
+        "headline":"Popular app hacked!"
+    },
+    {
+        "id":6,
+        "imageName":"IMG_0332",
+        "category":"Health",
+        "data":"I hacked this app",
+        "solution":"HEALTH - I'm not gonna do anything bad",
+        "source":"AHAHAFAKE.com",
+        "badness":1,
+        "headline":"Popular app hacked!"
+    },
+    {
+        "id":7,
+        "imageName":"Picture",
+        "category":"Health",
+        "data":"I hate swift wit ha passion",
+        "solution":"Screw off",
+        "source":"L.com",
+        "badness":6,
+        "headline":"Poop app"
+    },
+    {
+        "id":8,
+        "imageName":"Picture",
+        "category":"Health",
+        "data":"8- I hate swift wit ha passion",
+        "solution":"Screw off",
+        "source":"L.com",
+        "badness":6,
+        "headline":"Poop app"
+    },
+    {
+        "id":9,
+        "imageName":"Picture",
+        "category":"Health",
+        "data":"9- I hate swift wit ha passion",
+        "solution":"Screw off",
+        "source":"L.com",
+        "badness":6,
+        "headline":"Poop app"
+    },
+    {
+        "id":10,
+        "imageName":"Picture",
+        "category":"Health",
+        "data":"10 - I hate swift wit ha passion",
+        "solution":"Screw off",
+        "source":"L.com",
+        "badness":6,
+        "headline":"Poop app"
+    }
+]
